@@ -30,7 +30,7 @@
 
 ### 📕 Stats
 
-<img align="left" alt="Amped's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AmpedScripts&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
+<img align="left" alt="Amped's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AmpedWasTaken&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
 
 [discord]: https://discordapp.com/users/670792646494650408
 
