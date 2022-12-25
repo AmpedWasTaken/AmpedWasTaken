@@ -1,4 +1,4 @@
-### Hi there, I'm Tim - aka Amped 👋
+### Hi there, I'm Amped 👋
 
 ## I'm a Software Developer!!
 
