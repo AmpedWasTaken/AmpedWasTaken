@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm currently working on some small projects
 - 📖 I love open source projects 💙
-- 👴 I'm currently 18 years old
+- 👴 I'm currently 19 years old
 - 🏫 I study Software Developer course
 ### Connect with me:
 
