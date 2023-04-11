@@ -8,7 +8,7 @@
 - 🏫 I study Software Developer course
 ### Connect with me:
 
-[![Discord](https://img.shields.io/badge/Discord-Amped%235557-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/723892462275395674)
+[![Discord](https://img.shields.io/badge/Discord-Amped%231607-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/723892462275395674)
 
 
 ### Languages and Tools:
