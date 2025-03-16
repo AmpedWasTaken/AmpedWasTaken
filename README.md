@@ -30,7 +30,7 @@
 ## ⚙️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,js,php,mysql,linux,git,github,vscode,html,css,react,tailwind,sqlite" />
+  <img src="https://skillicons.dev/icons?i=lua,js,html,css,php,go,python,cpp,mysql,linux,git,github,vscode,react,tailwind,sqlite" />
 </p>
 
 ---
