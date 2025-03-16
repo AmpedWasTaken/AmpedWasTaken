@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-EnymX-9D00FF?style=for-the-badge&logo=terminal&logoColor=white">
   <img src="https://img.shields.io/badge/Open%20Source-💜-9D00FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linux%20User-💻-9D00FF?style=for-the-badge">
 </p>
 
 ---
@@ -12,6 +13,7 @@
 - 💻 Currently working on **EnymX** and other projects  
 - 🔓 Passionate about **cybersecurity** & **automation**  
 - 📚 Always learning **new technologies**  
+- 🎨 Building **tools with custom UI & automation**  
 
 ---
 
@@ -28,7 +30,7 @@
 ## ⚙️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,js,php,mysql,linux,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=go,js,php,mysql,linux,git,github,vscode,html,css,react,tailwind,sqlite" />
 </p>
 
 ---
@@ -36,12 +38,17 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmpedWasTaken&show_icons=true&theme=tokyonight&locale=en" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmpedWasTaken&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmpedWasTaken&show_icons=true&theme=radical&locale=en" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmpedWasTaken&theme=radical" width="49%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpedWasTaken&layout=compact&theme=tokyonight" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmpedWasTaken&theme=radical" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpedWasTaken&layout=compact&theme=radical" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmpedWasTaken&theme=radical" width="49%">
 </p>
 
 ---
