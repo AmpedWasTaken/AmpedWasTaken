@@ -31,6 +31,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,html,css,php,go" />
+  <br>
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,linux,git,github,vscode,react,tailwind,sqlite" />
 </p>
 
