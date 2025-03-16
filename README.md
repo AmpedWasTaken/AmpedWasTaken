@@ -32,9 +32,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
   <br>
-  <img src="https://skillicons.dev/icons?i=lua,nodejs,csharp,json,php,go" />
+  <img src="https://skillicons.dev/icons?i=lua,nodejs,npm,python,java,php,go" />
   <br>
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,linux,git,github,vscode,react,tailwind,sqlite" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,mysql,linux,git,github,vscode,react,tailwind,sqlite" />
 </p>
 
 ---
