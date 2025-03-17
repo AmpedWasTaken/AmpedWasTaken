@@ -17,6 +17,16 @@
 
 ---
 
+## 🔥 Enym X  
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1350886916450418808/1351174913523974216/EnymXIcon.png" width="150">
+</p>
+
+**Enym X** is a multitool for ethical hackers, combining **OSINT**, **network tools**, and a **web-based penetration testing suite** with a secure authentication system.
+
+---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
