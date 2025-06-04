@@ -17,16 +17,6 @@
 
 ---
 
-## 🔥 Enym X  
-
-<p align="center">
-  <img src="https://i.ibb.co/1t1BG2M1/Enym-XIcon.png" width="150">
-</p>
-
-**Enym X** is a multitool for ethical hackers, combining **OSINT**, **network tools**, and a **web-based penetration testing suite** with a secure authentication system.
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
