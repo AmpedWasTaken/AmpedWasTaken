@@ -1,29 +1,19 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-EnymX-9D00FF?style=for-the-badge&logo=terminal&logoColor=white">
   <img src="https://img.shields.io/badge/Open%20Source-💜-9D00FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Linux%20User-💻-9D00FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Windows%20User-💻-9D00FF?style=for-the-badge">
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-- 💻 Currently working on **EnymX** and other projects  
-- 🔓 Passionate about **cybersecurity** & **automation**  
-- 📚 Always learning **new technologies**  
-- 🎨 Building **tools with custom UI & automation**  
-
----
-
-## 🔥 Enym X  
-
-<p align="center">
-  <img src="https://i.ibb.co/1t1BG2M1/Enym-XIcon.png" width="150">
-</p>
-
-**Enym X** is a multitool for ethical hackers, combining **OSINT**, **network tools**, and a **web-based penetration testing suite** with a secure authentication system.
+- 💻 Software developer focused on creating efficient and user-friendly tools  
+- 🔍 Interested in cybersecurity awareness and automation  
+- 📚 Continuously learning and improving my skills  
+- 🎨 Passionate about building applications with clean design and solid functionality  
 
 ---
 
@@ -67,4 +57,4 @@
 
 ---
 
-🔗 **Check out my repositories:** [GitHub Repos](https://github.com/Amped16?tab=repositories)
+🔗 **Explore my repositories:** [GitHub Repos](https://github.com/Amped16?tab=repositories)
