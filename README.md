@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 
-- 💻 Currently working on **EnymX** and other projects  
+- 💻 Currently working on **SentinelX** and other projects  
 - 🔓 Passionate about **cybersecurity** & **automation**  
 - 📚 Always learning **new technologies**  
 - 🎨 Building **tools with custom UI & automation**  
