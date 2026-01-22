@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 
-- 💻 Currently working on **SentinelX** and other projects  
+- 💻 Currently working on **Glint** and other projects  
 - 🔓 Passionate about **cybersecurity** & **automation**  
 - 📚 Always learning **new technologies**  
 - 🎨 Building **tools with custom UI & automation**  
