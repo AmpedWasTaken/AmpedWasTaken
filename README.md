@@ -1,4 +1,4 @@
-```bash
+```
 root@AmpedWasTaken:~$ whoami
 AmpedWasTaken
 
