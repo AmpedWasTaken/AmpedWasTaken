@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:custom:1DB954,191414&height=180&section=header&text=AmpedWasTaken&fontSize=85&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  # **AmpedWasTaken**
   
   <h3>✨ Crafting Digital Experiences with Code & Design ✨</h3>
   
@@ -16,41 +16,29 @@
   
   <br>
   
-  <table>
-    <tr>
-      <td align="center" width="100%">
-        
-        ### 🎧 **Anything but Normal**
-        #### *Juice WRLD* • Unreleased Track
-        
-        <br>
-        
-        <img src="https://img.shields.io/badge/🎵_Now_Playing-Anything%20but%20Normal-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-        
-        <br><br>
-        
-        <img src="https://img.shields.io/badge/Artist-Juice%20WRLD-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
-        <img src="https://img.shields.io/badge/Status-Unreleased-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
-        <img src="https://img.shields.io/badge/Genre-Hip%20Hop%20%7C%20Rap-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
-        <img src="https://img.shields.io/badge/Year-2024-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
-        
-        <br><br>
-        
-        ```diff
-        + 🎵 Track: Anything but Normal
-        + 🎤 Artist: Juice WRLD
-        + 💜 Status: Unreleased (999 Forever)
-        + 🎧 Genre: Hip Hop / Rap
-        + ⏱️ Duration: ~3:45
-        ```
-        
-        <br>
-        
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourusername&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=1DB954&bar_color_cover=false" alt="Spotify Playing" />
-        
-      </td>
-    </tr>
-  </table>
+  ### 🎧 **Anything but Normal**
+  #### *Juice WRLD* • Unreleased Track
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/🎵_Now_Playing-Anything%20but%20Normal-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Artist-Juice%20WRLD-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
+  <img src="https://img.shields.io/badge/Status-Unreleased-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
+  <img src="https://img.shields.io/badge/Genre-Hip%20Hop%20%7C%20Rap-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
+  <img src="https://img.shields.io/badge/Year-2024-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
+  
+  <br><br>
+  
+  ```diff
+  + 🎵 Track: Anything but Normal
+  + 🎤 Artist: Juice WRLD
+  + 💜 Status: Unreleased (999 Forever)
+  + 🎧 Genre: Hip Hop / Rap
+  + ⏱️ Duration: ~3:45
+  ```
   
 </div>
 
@@ -64,7 +52,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php,lua,cpp,cs" alt="Languages" />
   <br>
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,mysql,git,github,vscode,linux,docker,aws" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,mysql,git,github,vscode,linux,docker,aws" alt="Tools" />
   
 </div>
 
@@ -154,8 +142,6 @@
   ![GitHub stars](https://img.shields.io/github/stars/AmpedWasTaken?color=1DB954&label=Total%20Stars&style=for-the-badge&logo=github)
   
   <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:custom:1DB954,191414&height=100&section=footer&fontSize=42&fontColor=fff&animation=twinkling" />
   
   <sub>**Made with 💚 and good vibes**</sub>
   
