@@ -21,7 +21,7 @@
 
 <div align="center">
 
-> *"I'm still here, I'm still breathing"* - Juice WRLD 🕊️
+ *"I'm still here, I'm still breathing"* - Juice WRLD 🕊️
 
 **999 Forever** - Finding motivation in the grind, building code that matters, and staying persistent through every challenge.
 
