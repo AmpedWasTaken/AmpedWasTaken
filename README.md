@@ -1,66 +1,50 @@
 <div align="center">
   
-  # **AmpedWasTaken**
+  <h1>Hey, I'm AmpedWasTaken 👋</h1>
   
-  <h3>✨ Crafting Digital Experiences with Code & Design ✨</h3>
+  <h3>Full Stack Developer • UI/UX Designer • Cybersecurity Enthusiast</h3>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=4000&pause=1000&color=1DB954&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;UI%2FUX+Designer;Cybersecurity+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+beautiful+digital+experiences;Turning+ideas+into+reality;Code+%2B+Design+%3D+Magic" alt="Typing SVG" />
+  
+  <br><br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AmpedWasTaken&color=00D9FF&style=flat-square&label=Profile+Views)
+  ![GitHub followers](https://img.shields.io/github/followers/AmpedWasTaken?color=00D9FF&label=Followers&style=flat-square&logo=github)
+  ![GitHub stars](https://img.shields.io/github/stars/AmpedWasTaken?color=00D9FF&label=Total%20Stars&style=flat-square&logo=github)
   
 </div>
 
 ---
 
-<div align="center">
-  
-  ## 🎵 **Currently Vibing To**
-  
-  <br>
-  
-  ### 🎧 **Anything but Normal**
-  #### *Juice WRLD* • Unreleased Track
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/🎵_Now_Playing-Anything%20but%20Normal-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/Artist-Juice%20WRLD-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
-  <img src="https://img.shields.io/badge/Status-Unreleased-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
-  <img src="https://img.shields.io/badge/Genre-Hip%20Hop%20%7C%20Rap-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
-  <img src="https://img.shields.io/badge/Year-2024-191414?style=flat-square&logo=spotify&logoColor=1DB954" />
-  
-  <br><br>
-  
-  ```diff
-  + 🎵 Track: Anything but Normal
-  + 🎤 Artist: Juice WRLD
-  + 💜 Status: Unreleased (999 Forever)
-  + 🎧 Genre: Hip Hop / Rap
-  + ⏱️ Duration: ~3:45
-  ```
-  
-</div>
-
----
+## 🎵 What I'm Listening To
 
 <div align="center">
-  
-  ## 💻 **Tech Stack**
   
   <table>
     <tr>
-      <td align="center" width="33%">
-        <h3>🎨 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind" alt="Frontend" />
+      <td width="60%" align="center">
+        
+        ### 🎧 Anything but Normal
+        **Juice WRLD** • *Unreleased*
+        
+        <br>
+        
+        <img src="https://img.shields.io/badge/Status-Unreleased-00D9FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Genre-Hip%20Hop-00D9FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Duration-3%3A45-00D9FF?style=flat-square" />
+        
       </td>
-      <td align="center" width="33%">
-        <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php,lua,cpp,cs" alt="Languages" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🛠️ Tools</h3>
-        <img src="https://skillicons.dev/icons?i=figma,ps,mysql,git,github,vscode,linux,docker,aws" alt="Tools" />
+      <td width="40%" align="center">
+        
+        ```json
+        {
+          "track": "Anything but Normal",
+          "artist": "Juice WRLD",
+          "status": "Unreleased",
+          "vibe": "999 Forever 💜"
+        }
+        ```
+        
       </td>
     </tr>
   </table>
@@ -69,47 +53,70 @@
 
 ---
 
-<div align="center">
-  
-  ## 📊 **GitHub Stats**
-  
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=AmpedWasTaken&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1DB954&icon_color=1DB954&text_color=fff&border_radius=20"/>
-  <img height="195em" src="https://github-readme-streak-stats.vercel.app/?user=AmpedWasTaken&theme=dark&hide_border=true&background=0d1117&ring=1DB954&fire=1DB954&currStreakLabel=1DB954&border_radius=20"/>
-  
-</div>
+## 💻 Tech Stack
 
 <div align="center">
   
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpedWasTaken&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DB954&text_color=fff&border_radius=20"/>
-  <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmpedWasTaken&theme=dark&hide_border=true&border_radius=20"/>
+  ### Frontend & Design
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind,figma" alt="Frontend" />
   
-</div>
-
-<div align="center">
+  ### Backend & Languages
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php,lua,cpp,cs" alt="Backend" />
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmpedWasTaken&theme=github-dark&hide_border=true&bg_color=0d1117&color=1DB954&line=1DB954&point=FFFFFF&area=true&area_color=1DB954&radius=20)
+  ### Tools & Infrastructure
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,docker,aws,vercel" alt="Tools" />
   
 </div>
 
 ---
 
+## 📊 GitHub Statistics
+
 <div align="center">
   
-  ## 🚀 **About Me**
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AmpedWasTaken&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=fff&border_radius=15"/>
+  <img height="200em" src="https://github-readme-streak-stats.vercel.app/?user=AmpedWasTaken&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&border_radius=15"/>
   
-  ```typescript
-  const developer = {
-    name: "AmpedWasTaken",
+</div>
+
+<div align="center">
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpedWasTaken&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff&border_radius=15"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmpedWasTaken&theme=tokyonight&hide_border=true&border_radius=15"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmpedWasTaken&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&radius=15)
+  
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+  
+  ```javascript
+  const ampedWasTaken = {
+    pronouns: "he/him",
     role: "Full Stack Developer & UI/UX Designer",
-    passions: [
+    location: "Earth 🌍",
+    currentFocus: "Building Glint & innovative projects",
+    interests: [
       "Creating beautiful user interfaces",
       "Building scalable applications",
       "Cybersecurity & automation",
       "Design systems & modern web tech"
     ],
-    currentlyWorkingOn: "Glint & other innovative projects",
-    learning: "New design patterns & development practices",
-    funFact: "I code to the rhythm of unreleased tracks 🎵"
+    currentlyLearning: [
+      "Advanced design patterns",
+      "New development practices",
+      "UI/UX best practices"
+    ],
+    funFact: "I code to the rhythm of unreleased tracks 🎵",
+    quote: "Design is not just what it looks like — design is how it works"
   };
   ```
   
@@ -117,21 +124,21 @@
 
 ---
 
+## 🎯 Featured Project
+
 <div align="center">
   
-  ## 🎯 **Featured Project**
-  
   <a href="https://github.com/AmpedWasTaken/Glint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmpedWasTaken&repo=Glint&theme=dark&hide_border=true&bg_color=0d1117&title_color=1DB954&icon_color=1DB954&text_color=fff&border_radius=20" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmpedWasTaken&repo=Glint&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=fff&border_radius=15" />
   </a>
   
 </div>
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
-  
-  ## 🌐 **Connect**
   
   <a href="https://discordapp.com/users/723892462275395674">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -147,13 +154,10 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=AmpedWasTaken&color=1DB954&style=for-the-badge&label=Profile+Views)
+  <sub>**Made with 💙 and attention to detail**</sub>
   
-  ![GitHub followers](https://img.shields.io/github/followers/AmpedWasTaken?color=1DB954&label=Followers&style=for-the-badge&logo=github)
-  ![GitHub stars](https://img.shields.io/github/stars/AmpedWasTaken?color=1DB954&label=Total%20Stars&style=for-the-badge&logo=github)
+  <br>
   
-  <br><br>
-  
-  <sub>**Made with 💚 and good vibes**</sub>
+  <sub>⭐ Star this repo if you find it interesting! ⭐</sub>
   
 </div>
