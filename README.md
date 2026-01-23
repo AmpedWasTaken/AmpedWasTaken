@@ -48,11 +48,22 @@
   
   ## 💻 **Tech Stack**
   
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind" alt="Frontend" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php,lua,cpp,cs" alt="Languages" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=figma,ps,mysql,git,github,vscode,linux,docker,aws" alt="Tools" />
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🎨 Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind" alt="Frontend" />
+      </td>
+      <td align="center" width="33%">
+        <h3>⚙️ Backend</h3>
+        <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,php,lua,cpp,cs" alt="Languages" />
+      </td>
+      <td align="center" width="33%">
+        <h3>🛠️ Tools</h3>
+        <img src="https://skillicons.dev/icons?i=figma,ps,mysql,git,github,vscode,linux,docker,aws" alt="Tools" />
+      </td>
+    </tr>
+  </table>
   
 </div>
 
