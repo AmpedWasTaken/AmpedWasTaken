@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="" alt="Typing SVG" />
+  <img src="https://github.com/AmpedWasTaken/AmpedWasTaken/blob/main/images/header.jpeg?raw=true" alt="header" />
   
   <h3>Full Stack Developer • UI/UX Designer • Cybersecurity Enthusiast</h3>
   
