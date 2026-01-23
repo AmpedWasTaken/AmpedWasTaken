@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hey, I'm AmpedWasTaken 👋</h1>
+  <img src="" alt="Typing SVG" />
   
   <h3>Full Stack Developer • UI/UX Designer • Cybersecurity Enthusiast</h3>
   
