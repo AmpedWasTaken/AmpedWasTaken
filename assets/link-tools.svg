@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="44" viewBox="0 0 160 44" role="img" aria-label="Security tools">
+  <rect x=".5" y=".5" width="159" height="43" rx="8" fill="#0d1013" stroke="#2a343a"/>
+  <path d="M18 16l6 6-6 6M29 28h7" fill="none" stroke="#81f5d5" stroke-width="2.2" stroke-linecap="square"/>
+  <text x="47" y="27" fill="#f5f7f8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700">security tools</text>
+</svg>
