@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Amped Security Research</title>
+  <desc id="desc">Minimal dark security research banner for AmpedWasTaken</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#171c20" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="78%" cy="10%" r="65%">
+      <stop offset="0%" stop-color="#81f5d5" stop-opacity=".14"/>
+      <stop offset="100%" stop-color="#81f5d5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="#090b0d"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity=".65"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="1199" height="299" rx="17.5" fill="none" stroke="#232a30"/>
+
+  <g transform="translate(64 56)">
+    <rect width="58" height="58" rx="10" fill="#0d1013" stroke="#334039"/>
+    <path d="M16 18l12 11-12 11" fill="none" stroke="#81f5d5" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter"/>
+    <path d="M33 40h12" stroke="#f5f7f8" stroke-width="4" stroke-linecap="square"/>
+
+    <text x="82" y="27" fill="#f5f7f8" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="1">AMPED</text>
+    <text x="82" y="53" fill="#8f9aa3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="2">SECURITY RESEARCH / OPEN-SOURCE TOOLING</text>
+  </g>
+
+  <text x="64" y="194" fill="#f5f7f8" font-family="Arial,Helvetica,sans-serif" font-size="47" font-weight="600" letter-spacing="-1.5">Find the signal. Prove the chain.</text>
+  <text x="64" y="234" fill="#8f9aa3" font-family="Arial,Helvetica,sans-serif" font-size="18">White-hat research · responsible disclosure · evidence-first tooling</text>
+
+  <text x="64" y="274" fill="#81f5d5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="1.5">AMPEDWASTAKEN.DEV</text>
+  <text x="1136" y="274" text-anchor="end" fill="#5b6670" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">@AmpedWasTaken</text>
+</svg>
