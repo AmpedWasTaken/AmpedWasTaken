@@ -15,26 +15,42 @@
 </p>
 
 <p align="center">
-  White-hat security research, open-source tooling, and responsible disclosure.<br />
-  Building practical tools around web security, recon, monitoring, and evidence-first validation.
+  Developer & security researcher building tools around web security, reconnaissance, automation, and evidence-first validation.<br />
+  I like turning repetitive research into practical tooling — and breaking my own stuff before someone else does.
 </p>
 
 ---
 
+### Currently building
+
+| Project | What I'm working on |
+| --- | --- |
+| **Penter** | AI-native pentesting workspace for guided, approval-driven security testing |
+| **[ampedwastaken.dev](https://ampedwastaken.dev)** | Home for my security research, tooling, and future disclosures |
+| **[ReconX](https://github.com/AmpedWasTaken/ReconX)** | Reconnaissance automation, subdomain discovery, and service detection |
+
+### Security research
+
+I focus on **authorized testing**, **responsible disclosure**, **reproducible findings**, and **evidence-first validation**.
+
+The goal is simple: find the signal, prove the chain, and leave behind something useful — whether that's a report, a proof, or an open-source tool.
+
 ### Featured security projects
 
-| Project | Focus |
+| Project | What it does |
 | --- | --- |
-| **[wcdscan](https://github.com/AmpedWasTaken/wcdscan)** | Evidence-first Web Cache Deception scanner |
+| **[wcdscan](https://github.com/AmpedWasTaken/wcdscan)** | Evidence-first Web Cache Deception detection and validation |
 | **[ReconX](https://github.com/AmpedWasTaken/ReconX)** | Subdomain reconnaissance and service detection |
-| **[SecureShield](https://github.com/AmpedWasTaken/secure-shield)** · [site](https://secure-shield.dev) | Security middleware for Node.js |
-| **[Honeypot](https://github.com/AmpedWasTaken/Honeypot)** | SSH/FTP honeypot and activity monitoring |
+| **[SecureShield](https://github.com/AmpedWasTaken/secure-shield)** · [site](https://secure-shield.dev) | Security middleware for Node.js applications |
+| **[Honeypot](https://github.com/AmpedWasTaken/Honeypot)** | SSH/FTP honeypot with activity monitoring |
 | **[Sentinel-DSTAT](https://github.com/AmpedWasTaken/Sentinel-DSTAT)** | Real-time network traffic monitoring |
 
 <p align="center">
-  <sub>Go · TypeScript / JavaScript · Python · PHP · Next.js</sub>
+  <sub>Web Security · AppSec · Recon · Automation · TypeScript · Go · Python · PHP</sub>
 </p>
 
+---
+
 <p align="center">
-  <strong>More research, tooling, and future disclosures → <a href="https://ampedwastaken.dev">ampedwastaken.dev</a></strong>
+  <strong>Research, tooling, and future disclosures → <a href="https://ampedwastaken.dev">ampedwastaken.dev</a></strong>
 </p>
