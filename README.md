@@ -24,11 +24,37 @@
 ### Currently building
 
 <p align="center">
-  <img
-    src="https://ampedwastaken.dev/api/profile/currently-building"
-    alt="AMPED currently building — live project status"
-    width="100%"
-  />
+  <sub>Click a project card to open the repository.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmpedWasTaken/Penter">
+    <img
+      src="https://ampedwastaken.dev/api/profile/currently-building?project=penter&amp;v=3"
+      alt="Penter — currently building"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmpedWasTaken/ampedwastaken.dev">
+    <img
+      src="https://ampedwastaken.dev/api/profile/currently-building?project=ampedwastaken&amp;v=3"
+      alt="ampedwastaken.dev — currently building"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmpedWasTaken/ReconX">
+    <img
+      src="https://ampedwastaken.dev/api/profile/currently-building?project=reconx&amp;v=3"
+      alt="ReconX — currently building"
+      width="100%"
+    />
+  </a>
 </p>
 
 ### Security research
