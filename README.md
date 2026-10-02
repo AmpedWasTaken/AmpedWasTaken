@@ -23,11 +23,13 @@
 
 ### Currently building
 
-| Project | What I'm working on |
-| --- | --- |
-| **Penter** | AI-native pentesting workspace for guided, approval-driven security testing |
-| **[ampedwastaken.dev](https://ampedwastaken.dev)** | Home for my security research, tooling, and future disclosures |
-| **[ReconX](https://github.com/AmpedWasTaken/ReconX)** | Reconnaissance automation, subdomain discovery, and service detection |
+<p align="center">
+  <img
+    src="https://ampedwastaken.dev/api/profile/currently-building"
+    alt="AMPED currently building — live project status"
+    width="100%"
+  />
+</p>
 
 ### Security research
 
