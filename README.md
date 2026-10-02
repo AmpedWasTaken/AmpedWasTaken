@@ -24,36 +24,24 @@
 ### Currently building
 
 <p align="center">
-  <sub>Click a project card to open the repository.</sub>
+  <sub>Live GitHub metadata · click a card to open the public repository.</sub>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AmpedWasTaken/Penter">
-    <img
-      src="https://ampedwastaken.dev/api/profile/currently-building?project=penter&amp;v=3"
-      alt="Penter — currently building"
-      width="100%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AmpedWasTaken/ampedwastaken.dev">
-    <img
-      src="https://ampedwastaken.dev/api/profile/currently-building?project=ampedwastaken&amp;v=3"
-      alt="ampedwastaken.dev — currently building"
-      width="100%"
-    />
+  <a href="https://github.com/AmpedWasTaken/wcdscan">
+    <img src="https://ampedwastaken.dev/api/profile/currently-building?project=wcdscan&amp;v=4" alt="wcdscan" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AmpedWasTaken/ReconX">
-    <img
-      src="https://ampedwastaken.dev/api/profile/currently-building?project=reconx&amp;v=3"
-      alt="ReconX — currently building"
-      width="100%"
-    />
+    <img src="https://ampedwastaken.dev/api/profile/currently-building?project=reconx&amp;v=4" alt="ReconX" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmpedWasTaken/secure-shield">
+    <img src="https://ampedwastaken.dev/api/profile/currently-building?project=secure-shield&amp;v=4" alt="SecureShield" width="100%" />
   </a>
 </p>
 
@@ -65,13 +53,51 @@ The goal is simple: find the signal, prove the chain, and leave behind something
 
 ### Featured security projects
 
-| Project | What it does |
-| --- | --- |
-| **[wcdscan](https://github.com/AmpedWasTaken/wcdscan)** | Evidence-first Web Cache Deception detection and validation |
-| **[ReconX](https://github.com/AmpedWasTaken/ReconX)** | Subdomain reconnaissance and service detection |
-| **[SecureShield](https://github.com/AmpedWasTaken/secure-shield)** · [site](https://secure-shield.dev) | Security middleware for Node.js applications |
-| **[Honeypot](https://github.com/AmpedWasTaken/Honeypot)** | SSH/FTP honeypot with activity monitoring |
-| **[Sentinel-DSTAT](https://github.com/AmpedWasTaken/Sentinel-DSTAT)** | Real-time network traffic monitoring |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AmpedWasTaken/wcdscan">
+        <img src="https://ampedwastaken.dev/api/profile/currently-building?project=wcdscan&amp;mode=compact&amp;v=4" alt="wcdscan" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AmpedWasTaken/ReconX">
+        <img src="https://ampedwastaken.dev/api/profile/currently-building?project=reconx&amp;mode=compact&amp;v=4" alt="ReconX" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AmpedWasTaken/secure-shield">
+        <img src="https://ampedwastaken.dev/api/profile/currently-building?project=secure-shield&amp;mode=compact&amp;v=4" alt="SecureShield" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AmpedWasTaken/Honeypot">
+        <img src="https://ampedwastaken.dev/api/profile/currently-building?project=honeypot&amp;mode=compact&amp;v=4" alt="Honeypot" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AmpedWasTaken/Sentinel-DSTAT">
+        <img src="https://ampedwastaken.dev/api/profile/currently-building?project=sentinel-dstat&amp;mode=compact&amp;v=4" alt="Sentinel-DSTAT" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AmpedWasTaken/Anonymous-Auth-System">
+        <img src="https://ampedwastaken.dev/api/profile/currently-building?project=anonymous-auth&amp;mode=compact&amp;v=4" alt="Anonymous Auth System" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <a href="https://github.com/AmpedWasTaken/Fivem-Secure-IP-Addresses">
+        <img src="https://ampedwastaken.dev/api/profile/currently-building?project=fivem-secure-ip&amp;mode=compact&amp;v=4" alt="FiveM Secure IP Addresses" width="49%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>Web Security · AppSec · Recon · Automation · TypeScript · Go · Python · PHP</sub>
